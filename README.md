@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AdilAmanat
-- 👀 I’m interested in web 
-- 🌱 I’m currently learning web3.0
-- 💞️ I’m looking to collaborate on web3.0 tech.
+- 👀 I’m interested in web
 - 📫 How to reach me aadilamanat44@gmail.com or +923234829317
 
 <!---
